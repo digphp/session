@@ -1,0 +1,11 @@
+{
+    "name": "digphp/session",
+    "description": "php session",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "DigPHP\\Session\\": "src/"
+        }
+    }
+}
